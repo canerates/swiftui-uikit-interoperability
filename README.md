@@ -13,15 +13,15 @@ Single application with two versions of the screens (SwiftUI and UIKit)
 ### SwiftUI screens
 <p align="row">
   <p align="center">
-    <img src= "SwiftUI-List.png" width="250" >
-    <img src= "SwiftUI-Detail.png" width="250" >
+    <img src= "SwiftUI-List.png" width="300" >
+    <img src= "SwiftUI-Detail.png" width="300" >
   </p>
 </p>
 
 ### UIKit screens
 <p align="row">
   <p align="center">
-    <img src= "UIKit-List.png" width="200" >
-    <img src= "UIKit-Detail.png" width="200" >
+    <img src= "UIKit-List.png" width="300" >
+    <img src= "UIKit-Detail.png" width="300" >
   </p>
 </p>
