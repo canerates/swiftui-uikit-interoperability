@@ -10,7 +10,9 @@ Single application with two versions of the screens (SwiftUI and UIKit)
 - MVVM pattern
 - URLSession (JSON file)
 
-### SwiftUI screens
+## Screens
+
+### SwiftUI
 <p align="row">
   <p align="left">
     <img src= "SwiftUI-List.png" width="300" >
@@ -18,7 +20,7 @@ Single application with two versions of the screens (SwiftUI and UIKit)
   </p>
 </p>
 
-### UIKit screens
+### UIKit
 <p align="row">
   <p align="left">
     <img src= "UIKit-List.png" width="300" >
