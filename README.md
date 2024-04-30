@@ -12,7 +12,7 @@ Single application with two versions of the screens (SwiftUI and UIKit)
 
 ### SwiftUI screens
 <p align="row">
-  <p align="center">
+  <p align="left">
     <img src= "SwiftUI-List.png" width="300" >
     <img src= "SwiftUI-Detail.png" width="300" >
   </p>
@@ -20,7 +20,7 @@ Single application with two versions of the screens (SwiftUI and UIKit)
 
 ### UIKit screens
 <p align="row">
-  <p align="center">
+  <p align="left">
     <img src= "UIKit-List.png" width="300" >
     <img src= "UIKit-Detail.png" width="300" >
   </p>
