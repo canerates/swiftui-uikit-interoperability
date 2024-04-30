@@ -12,6 +12,7 @@ struct SwiftUI_UIKit_InteroperabilityApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .preferredColorScheme(.light)
         }
     }
 }
